@@ -41,21 +41,17 @@
 #### **Tools & Databases**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/ArcMap-4B6B94?style=flat-square&logo=arcgis&logoColor=white" alt="ArcMap">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/ArcMap-4B6B94?style=flat-square&logo=arcgis&logoColor=white" alt="ArcMap">
 </p>
 
 ---
 
 ## 🚀 Highlighted Projects
 
-- 🚦 **[Vehicle Detection & Counting (YOLOv12)](https://github.com/mochafifulislam)**: Implementasi YOLOv12 untuk deteksi dan pemantauan jumlah kendaraan pada rekaman CCTV Malang secara real-time.
-- 🩺 **[Skin Cancer Classification (VGG19)](https://github.com/mochafifulislam)**: Klasifikasi 7 jenis lesi kanker kulit menggunakan arsitektur VGG19.
-- 🌶️ **[Chili Variety Identification](https://github.com/mochafifulislam)**: Identifikasi varietas tanaman cabai berbasis *Deep Ensemble Learning*.
-- 📊 **[BSI Customer Segmentation](https://github.com/mochafifulislam)**: Segmentasi karakteristik nasabah BSI KCP Batamindo menggunakan *K-Means Clustering*.
-
+- 🚦 **[Credit Risk Prediction](https://github.com/jalaludinrahman02)**: CREDIT RISK PREDICTION (ID/X PARTNERS DATA SCIENTIST FINAL TASK) 
+- 🩺 **[Spatial Cluster SKATER](https://github.com/jalaludinrahman02)**: Pembentukan Klaster Spasial (SKATER) pada Kabupaten/Kota di Provinsi Jawa Timur Berdasarkan Indikator Kemiskinan Tahun 2024 
 ---
 
 ## 📈 GitHub Stats
@@ -67,6 +63,6 @@
 ---
 
 <p align="center">
-  <i>"Mathematics is the foundation, Artificial Intelligence is the application."</i><br>
+  <i>"Statistics is the foundation, Machine Learning is the application."</i><br>
   <b>Feel free to connect or collaborate! 🚀</b>
 </p>
