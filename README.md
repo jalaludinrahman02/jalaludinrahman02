@@ -50,14 +50,14 @@
 
 ## 🚀 Highlighted Projects
 
-- 🚦 **[Credit Risk Prediction](https://github.com/jalaludinrahman02)**: CREDIT RISK PREDICTION (ID/X PARTNERS DATA SCIENTIST FINAL TASK) 
+- 🚦 **[Credit Risk Prediction](https://github.com/jalaludinrahman02)**: Credit Risk Prediction - ID/X Partners Data Scientist Final Task 
 - 🩺 **[Spatial Cluster SKATER](https://github.com/jalaludinrahman02)**: Pembentukan Klaster Spasial (SKATER) pada Kabupaten/Kota di Provinsi Jawa Timur Berdasarkan Indikator Kemiskinan Tahun 2024 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mochafifulislam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jalaludinrahman02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
