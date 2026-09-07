@@ -15,10 +15,10 @@
 
 ## 📌 About Me
 
-- 🎓 **Education:** Mathematics Bachelor at Universitas Brawijaya.
-- 🔬 **Research & Focus:** Computer Vision, Deep Learning, Image Classification, Object Detection, and Data Clustering.
-- 🔭 **Current Work:** Exploring advanced deep learning architectures and computational algorithm implementations.
-- ⚡ **Fun Fact:** I love applying mathematical foundations to solve real-world Machine Learning & Computer Vision challenges.
+- 🎓 **Education:** Statistics Bachelor at Universitas Brawijaya.
+- 🔬 **Research & Focus:** Data Visualization, Machine Learning, Unsupervised Learning, and Data Clustering.
+- 🔭 **Current Work:** Developing predictive models (like Credit Risk Prediction using Logistic Regression & Random Forest) and spatial data analysis.
+- ⚡ **Fun Fact:** I love applying mathematical foundations and statistical rigor to solve real-world data challenges.
 
 ---
 
